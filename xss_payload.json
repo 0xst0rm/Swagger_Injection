@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/0xst0rm/Swagger_Injection/refs/heads/main/xss_payload.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/0xst0rm/Swagger_Injection/refs/heads/main/xss_payload.yaml",
+            "name": "0xSt0rm"
+        }
+    ]
+}
