@@ -1,2 +1,2 @@
-# Swagger_Injection
+# Swagger Injection
 Swagger UI URL Injection payloads
